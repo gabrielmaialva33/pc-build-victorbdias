@@ -1,5 +1,16 @@
 # PC GAMER DO VITÃO 🎮
 
+<table style="width:100%" align="center" border="0">
+  <tr>
+    <td align="center" width="150"><img src="https://avatars.githubusercontent.com/u/30843291?v=4" alt="Victor Batisttete Dias" width="120" style="border-radius: 50%;"></td>
+    <td>
+      <h3>Build criado com ❤️ para <a href="https://github.com/VictorBDias">Victor Batisttete Dias</a></h3>
+      <p><i>Frontend Software Engineer | @Yazo-Connecting-Experiences</i></p>
+      <p>Este PC foi configurado com muito amor e carinho em um domingo, especialmente pensado para as necessidades de um desenvolvedor e gamer apaixonado. Cada componente foi escolhido com atenção para garantir o melhor desempenho, tanto para desenvolvimento frontend quanto para os momentos de diversão nos games.</p>
+    </td>
+  </tr>
+</table>
+
 ## Processador: Intel Core i7-13700K
 
 ![Processador Intel i7](https://altex.com/cdn/shop/files/intel-core-i7-13700k-13th-gen-34ghz-16-core-lga1700-i7-processor-560590.png?v=1733277067&width=1080)
@@ -501,4 +512,18 @@ longevidade.
 
 ---
 
-*Build em construção. Volte em breve para ver as atualizações!*
+<p align="center">
+  <img src="https://img.shields.io/badge/Build_com-❤️-ff69b4?style=flat-square" alt="Build com Amor" />
+  <img src="https://img.shields.io/badge/Para-Gamers_Exigentes-76B900?style=flat-square&logo=nvidia" alt="Para Gamers" />
+  <img src="https://img.shields.io/badge/Potência-Máxima-00BFFF?style=flat-square" alt="Potência" />
+  <img src="https://img.shields.io/badge/Setup-Premium-FFD700?style=flat-square" alt="Setup Premium" />
+  <img src="https://img.shields.io/badge/Feito_por-@gabrielmaialva33-15c3d6?style=flat-square" alt="Maia" />
+</p>
+
+<br>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p align="center">
+  <i>Todos os direitos reservados © 2025 • Montado com dedicação para elevar sua experiência digital</i>
+</p>
